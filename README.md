@@ -1,6 +1,15 @@
 # IBM AI Enterprise Workflow Capstone
 Files for the IBM AI Enterprise Workflow Capstone project. 
 
+## Description
+
+This repository contains:
+
+- Working Docker image
+- Unit Testing
+- Performance monitoring
+- Functional API and API documentation
+
 ## Part 1
 
 ### Case study part 1
